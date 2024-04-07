@@ -1,0 +1,8 @@
+# ninja log v5
+9	1374	7342219683278782	CMakeFiles/Generator_do_Baz_danych.dir/main.cpp.obj	9a56ce38ad168ccd
+8	819	7324947771852404	CMakeFiles/Generator_do_Baz_danych.dir/Tstudent.cpp.obj	c79659a6ebf351a1
+4	576	7324928023425520	CMakeFiles/Generator_do_Baz_danych.dir/Tosoba.cpp.obj	28ed95bddac7806d
+1376	2292	7342219692320062	Generator_do_Baz_danych.exe	657741b4d53feedb
+12	822	7324947771872345	CMakeFiles/Generator_do_Baz_danych.dir/Twykladowca.cpp.obj	f60eb82af030701c
+24	1855	7342217257371082	CMakeFiles/Generator_do_Baz_danych.dir/BazaDanychFunkcje.cpp.obj	241fdcc9f146a4af
+17	1323	7342217252057451	CMakeFiles/Generator_do_Baz_danych.dir/OblusgaBleduCin.cpp.obj	5d95e92a51e98199

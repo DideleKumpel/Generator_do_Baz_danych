@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Generator_do_Baz_danych",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Generator_do_Baz_danych::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Generator_do_Baz_danych-Debug-a382bba0070298c5caf2.json",
+					"name" : "Generator_do_Baz_danych",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/CEM/Desktop/Dawid Ma\u0107kiewicz Informatyka 1 W1L6/Kody zr\u00f3d\u0142owe/Pliki Generator Baz Danych/cmake-build-debug",
+		"source" : "C:/Users/CEM/Desktop/Dawid Ma\u0107kiewicz Informatyka 1 W1L6/Kody zr\u00f3d\u0142owe/Pliki Generator Baz Danych"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
